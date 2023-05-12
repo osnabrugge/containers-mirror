@@ -1,1 +1,1 @@
-FROM docker.io/rancher/kubectl:v1.21.14
+FROM docker.io/rancher/kubectl:v1.27.1
