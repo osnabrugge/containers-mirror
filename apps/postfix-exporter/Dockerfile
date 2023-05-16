@@ -1,2 +1,2 @@
-FROM docker.io/unikum/postfix_exporter
+FROM docker.io/unikum/postfix_exporter:latest
 
