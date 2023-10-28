@@ -1,1 +1,1 @@
-FROM docker.io/aler9/rtsp-simple-server:v1.2.0
+FROM docker.io/aler9/rtsp-simple-server:v1.2.1
