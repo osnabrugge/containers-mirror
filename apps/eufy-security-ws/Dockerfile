@@ -1,1 +1,1 @@
-FROM docker.io/bropat/eufy-security-ws:1.6.4
+FROM docker.io/bropat/eufy-security-ws:1.7.0
