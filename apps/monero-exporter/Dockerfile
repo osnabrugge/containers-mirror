@@ -1,1 +1,1 @@
-FROM docker.io/utxobr/monero-exporter:kbld-rand-1633708808948946871-663617186156
+FROM docker.io/vdo1138/monero-exporter:0.0.2
