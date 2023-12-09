@@ -1,6 +1,5 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "username": "container-bot[bot]",
-  "gitAuthor": "container-bot <36992359+container-bot[bot]@users.noreply.github.com>",
-  "repositories": ["osnabrugge/containers-mirror"]
+  "username": "apple-cart-bot[bot]",
+  "gitAuthor": "apple-cart-bot <36844788+apple-cart-bot[bot]@users.noreply.github.com>",
 }
