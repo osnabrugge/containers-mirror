@@ -1,1 +1,1 @@
-FROM docker.io/sethsimmons/simple-monerod:v0.18.3.2
+FROM docker.io/sethsimmons/simple-monerod:v0.18.3.3
