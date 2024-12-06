@@ -1,1 +1,1 @@
-FROM docker.io/mbentley/omada-controller:5.14
+FROM docker.io/mbentley/omada-controller:5.15
