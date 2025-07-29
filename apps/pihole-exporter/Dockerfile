@@ -1,1 +1,1 @@
-FROM docker.io/ekofr/pihole-exporter:v1.0.1
+FROM docker.io/ekofr/pihole-exporter:v1.2.0
